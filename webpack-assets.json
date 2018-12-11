@@ -1,0 +1,62 @@
+{
+  "vendors~app~vendor": {
+    "js": "/0.38c449362d90a4921e96.chunk.js"
+  },
+  "app": {
+    "js": "/1.38c449362d90a4921e96.chunk.js",
+    "css": "/app.38c449362d90a4921e96.css"
+  },
+  "fonts": {
+    "js": "/2.38c449362d90a4921e96.chunk.js"
+  },
+  "runtime~app": {
+    "js": "/runtime~app.38c449362d90a4921e96.bundle.js"
+  },
+  "runtime~fonts": {
+    "js": "/runtime~fonts.38c449362d90a4921e96.bundle.js"
+  },
+  "runtime~vendor": {
+    "js": "/runtime~vendor.38c449362d90a4921e96.bundle.js"
+  },
+  "vendor": {
+    "js": "/6.38c449362d90a4921e96.chunk.js"
+  },
+  "vendors~app": {
+    "js": "/7.38c449362d90a4921e96.chunk.js"
+  },
+  "": {
+    "license": [
+      "/0.38c449362d90a4921e96.chunk.js.LICENSE",
+      "/7.38c449362d90a4921e96.chunk.js.LICENSE"
+    ],
+    "gz": [
+      "/0.38c449362d90a4921e96.chunk.js.LICENSE.gz",
+      "/0.38c449362d90a4921e96.chunk.js.gz",
+      "/1.38c449362d90a4921e96.chunk.js.gz",
+      "/2.38c449362d90a4921e96.chunk.js.gz",
+      "/7.38c449362d90a4921e96.chunk.js.LICENSE.gz",
+      "/7.38c449362d90a4921e96.chunk.js.gz",
+      "/BrandonTextBold.otf.gz",
+      "/BrandonTextMedium.otf.gz",
+      "/BrandonTextRegular.otf.gz",
+      "/app.38c449362d90a4921e96.css.gz",
+      "/app.icon.14bbc97b11f99eb009dd21e193e1aaec.ttf.gz",
+      "/app.icon.d7c6f3fe904fff4237f9c73bc1ff6edf.svg.gz",
+      "/app.icon.e54cca194a5b0dfad95b3cf0044eabb7.eot.gz",
+      "/runtime~app.38c449362d90a4921e96.bundle.js.gz",
+      "/runtime~fonts.38c449362d90a4921e96.bundle.js.gz",
+      "/runtime~vendor.38c449362d90a4921e96.bundle.js.gz"
+    ],
+    "otf": [
+      "/BrandonTextBold.otf",
+      "/BrandonTextMedium.otf",
+      "/BrandonTextRegular.otf"
+    ],
+    "woff": "/app.icon.0c9227ad0e8f67317ba3c0e715ad17c7.woff",
+    "ttf": "/app.icon.14bbc97b11f99eb009dd21e193e1aaec.ttf",
+    "svg": "/app.icon.d7c6f3fe904fff4237f9c73bc1ff6edf.svg",
+    "eot": "/app.icon.e54cca194a5b0dfad95b3cf0044eabb7.eot",
+    "woff2": "/app.icon.f7a3d5bf34f77676bb13191fd8841f81.woff2",
+    "html": "/index.html"
+  }
+}
